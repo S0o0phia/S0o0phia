@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <h1 align="center"><b>🎀 공쥬님의 공간에 오신것을 환영합니다 🎀</b></h1>
 <br>
 <p align="center"><i>
